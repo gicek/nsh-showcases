@@ -1,0 +1,18 @@
+{
+  "id": "safay",
+  "name": "Safay",
+  "author": "gicek",
+  "description": "A two-factor authenticator for the desktop: TOTP codes from a local, end-to-end encrypted vault, Touch ID, QR codes from screen or camera, a menu bar panel and launcher integrations, and encrypted backups to iCloud, WebDAV or a folder. No account or server.",
+  "category": "utility",
+  "platforms": [
+    "macOS"
+  ],
+  "website": null,
+  "source": "https://github.com/gicek/safay",
+  "publishedAt": "2026-11-18T00:00:00Z",
+  "previews": [
+    "preview0.png",
+    "preview1.png",
+    "preview2.png"
+  ]
+}
